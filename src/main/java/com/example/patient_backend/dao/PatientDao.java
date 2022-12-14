@@ -1,5 +1,6 @@
 package com.example.patient_backend.dao;
 
+import com.example.patient_backend.model.Patients;
 import jakarta.transaction.Transactional;
 import org.springframework.data.jpa.repository.Modifying;
 import org.springframework.data.jpa.repository.Query;
