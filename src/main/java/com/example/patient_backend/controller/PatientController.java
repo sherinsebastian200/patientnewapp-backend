@@ -1,5 +1,7 @@
 package com.example.patient_backend.controller;
 
+import com.example.patient_backend.dao.PatientDao;
+import com.example.patient_backend.model.Patients;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
